@@ -9,6 +9,6 @@ Cantaloupe Image Server (https://cantaloupe-project.github.io/) - Version 4.0.2
 Jeder kann diese Scripts verwenden. Ich übernehme jedoch keine Verantwortung... 
 
 ## Anleitung
-Die Anleitung ist hier:
-Anleitung 1 (https://j-images.ch/?p=131)
-Anleitung 2 (https://j-images.ch/?p=139)
+Die Anleitungen sind hier:
+- Anleitung 1 (https://j-images.ch/?p=131)
+- Anleitung 2 (https://j-images.ch/?p=139)
